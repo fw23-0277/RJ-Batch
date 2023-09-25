@@ -6,7 +6,7 @@ public class Main {
 		// TODO Auto-generated method stub
 		InterfaceThree interfaceThree = new ClassTwo();
 		System.out.println(interfaceThree);
-		interfaceThree.methodOne();
+//		interfaceThree.methodOne();
 		interfaceThree.methodTwo();
 		interfaceThree.methodThree();
 		
